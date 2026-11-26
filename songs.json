@@ -1,0 +1,27 @@
+[
+  {
+    "id": "honey-belles-sugar-in-my-coffee",
+    "num": "01",
+    "title": "Sugar in My Coffee",
+    "artist": "Honey Belles",
+    "album": "Singles",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "",
+    "audio": "",
+    "audioSrc": "",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": false,
+    "explicit": false,
+    "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
+  }
+]

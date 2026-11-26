@@ -1,0 +1,10 @@
+{
+  "name": "Honey Belles",
+  "short_name": "Honey Belles",
+  "description": "Honey Belles on Hello Texas Records",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090806",
+  "theme_color": "#d49a25",
+  "icons": []
+}
